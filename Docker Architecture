@@ -1,0 +1,4 @@
+Docker Architecture
+
+The Docker architecture uses a client-server model and comprises of the Docker Client,
+Docker Host, Network and Storage components, and the Docker Registry / Hub. Let's look at each of these in some detail.
